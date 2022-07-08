@@ -1,7 +1,7 @@
-👋 Hi, @nizarulamin here!
-💻 I am currently on a final year Bachelor Computer Science (Hons.)
-🧐 Interested in everything Web/Apps Development
-🌱 Currently learning Laravel
+- 👋 Hi, @nizarulamin here!
+- 💻 I am currently on a final year Bachelor Computer Science (Hons.)
+- 🧐 Interested in everything Web/Apps Development
+- 🌱 Currently learning Laravel
 
 
 
