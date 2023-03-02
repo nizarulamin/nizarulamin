@@ -1,15 +1,15 @@
 <h1>Helloo there! 👋</h1>
-  <h4>Helloo guys! My name is Nizarul Amin, a fresh graduate and aspiring software engineer from Malaysia 🇲🇾 with a keen interest in exploring the workings of backend technologies.</h4>
+  <p>Helloo guys! My name is Nizarul Amin, a fresh graduate and aspiring software engineer from Malaysia 🇲🇾 with a keen interest in exploring the workings of backend technologies.</p>
 
 <h2>🤹🏻 My skills</h2>
-<h4>
+<body>
   
 - Language: [C++, Java, PHP]
 - Database: [MySQL]
 - Framework: [Bootstrap, TailwindCSS]
 - Cloud: [Coming soon]
   
-</h4>
+</body>
 
 <h2>➕ My interest</h2>
 <h4>
