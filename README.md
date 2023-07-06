@@ -15,8 +15,8 @@
 <body>
   
 - Web Development (backend)
-- Cyber Security
 - Cloud Computing
+- Cyber Security
 - IoT
   
 </body>
@@ -24,9 +24,8 @@
 <h2>🔬 My current exploration</h2>
 <body>
   
-- NodeJS (express)
-- MongoDB
-- Microsoft Azure
+- MERN stack
+- AWS Cloud Practitioner
   
 <body>
 
