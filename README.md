@@ -4,9 +4,9 @@
 <h2>🤹🏻 My skills</h2>
 <body>
   
-- Language: [C++, Java, PHP]
-- Database: [MySQL]
-- Framework: [Bootstrap, TailwindCSS]
+- Language: [C++, Java, Javascript]
+- Database: [MySQL, Oracle, PostgreSQL]
+- Framework: [Bootstrap, TailwindCSS, Spring Boot, Hibernate]
 - Cloud: [Coming soon]
   
 </body>
@@ -24,8 +24,7 @@
 <h2>🔬 My current exploration</h2>
 <body>
   
-- MERN stack
-- AWS Cloud Practitioner
+- MERN
   
 <body>
 
